@@ -1,0 +1,60 @@
+===== DM 1 of 4 (715 chars) =====
+🪟 SLIDING WINDOW: 20 sawaal (Easy → Hard)
+Pattern 1/15 · @codebhai.dsa
+
+Isi order mein karo 👇
+
+1. 🟢 Best Time to Buy and Sell Stock
+leetcode.com/problems/best-time-to-buy-and-sell-stock
+2. 🟡 Longest Substring Without Repeating Characters
+leetcode.com/problems/longest-substring-without-repeating-characters
+3. 🟡 Minimum Size Subarray Sum
+leetcode.com/problems/minimum-size-subarray-sum
+4. 🟡 Longest Repeating Character Replacement
+leetcode.com/problems/longest-repeating-character-replacement
+5. 🟡 Permutation in String
+leetcode.com/problems/permutation-in-string
+6. 🟡 Find All Anagrams in a String
+leetcode.com/problems/find-all-anagrams-in-a-string
+7. 🟡 Fruit Into Baskets
+leetcode.com/problems/fruit-into-baskets
+
+===== DM 2 of 4 (672 chars) =====
+8. 🟡 Max Consecutive Ones III
+leetcode.com/problems/max-consecutive-ones-iii
+9. 🟡 Subarray Product Less Than K
+leetcode.com/problems/subarray-product-less-than-k
+10. 🟡 Longest Subarray of 1's After Deleting One Element
+leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+11. 🟡 Maximum Number of Vowels in a Substring of Given Length
+leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
+12. 🟡 Count Number of Nice Subarrays
+leetcode.com/problems/count-number-of-nice-subarrays
+13. 🟡 Binary Subarrays With Sum
+leetcode.com/problems/binary-subarrays-with-sum
+14. 🟡 Maximum Erasure Value
+leetcode.com/problems/maximum-erasure-value
+
+===== DM 3 of 4 (583 chars) =====
+15. 🟡 Grumpy Bookstore Owner
+leetcode.com/problems/grumpy-bookstore-owner
+16. 🟡 Frequency of the Most Frequent Element
+leetcode.com/problems/frequency-of-the-most-frequent-element
+17. 🟡 Minimum Number of Flips to Make the Binary String Alternating
+leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
+18. 🔴 Minimum Window Substring
+leetcode.com/problems/minimum-window-substring
+19. 🔴 Sliding Window Maximum
+leetcode.com/problems/sliding-window-maximum
+20. 🔴 Subarrays with K Different Integers
+leetcode.com/problems/subarrays-with-k-different-integers
+
+===== DM 4 of 4 (328 chars) =====
+📚 Poori list (41 patterns × 20 sawaal):
+github.com/Automedon/ultimate-leetcode-patterns#2-sliding-window
+Credit: Automedon 🙏
+
+💡 Pehchaan: subarray / substring / continuous / k elements dikhe → window lagao.
+Rozana 1 sawaal. Atak jao toh reply karo, CodeBhai help karega 💪
+
+Follow @codebhai.dsa · agla pattern jaldi aa raha hai 🔥
