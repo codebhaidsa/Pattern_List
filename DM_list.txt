@@ -1,0 +1,60 @@
+===== DM 1 of 4 (564 chars) =====
+👉👈 TWO POINTERS: 20 sawaal (Easy → Hard)
+Pattern 2/15 · @codebhai.dsa
+
+Isi order mein karo 👇
+
+1. 🟢 Valid Palindrome
+leetcode.com/problems/valid-palindrome
+2. 🟢 Reverse String
+leetcode.com/problems/reverse-string
+3. 🟢 Move Zeroes
+leetcode.com/problems/move-zeroes
+4. 🟢 Remove Element
+leetcode.com/problems/remove-element
+5. 🟢 Squares of a Sorted Array
+leetcode.com/problems/squares-of-a-sorted-array
+6. 🟢 Remove Duplicates from Sorted Array
+leetcode.com/problems/remove-duplicates-from-sorted-array
+7. 🟢 Valid Palindrome II
+leetcode.com/problems/valid-palindrome-ii
+
+===== DM 2 of 4 (497 chars) =====
+8. 🟢 Backspace String Compare
+leetcode.com/problems/backspace-string-compare
+9. 🟡 Two Sum II - Input Array Is Sorted
+leetcode.com/problems/two-sum-ii-input-array-is-sorted
+10. 🟡 Remove Duplicates from Sorted Array II
+leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+11. 🟡 Sort Colors
+leetcode.com/problems/sort-colors
+12. 🟡 Rotate Array
+leetcode.com/problems/rotate-array
+13. 🟡 4Sum
+leetcode.com/problems/4sum
+14. 🟢 Sort Array By Parity II
+leetcode.com/problems/sort-array-by-parity-ii
+
+===== DM 3 of 4 (509 chars) =====
+15. 🟡 Container With Most Water
+leetcode.com/problems/container-with-most-water
+16. 🟡 Partition Labels
+leetcode.com/problems/partition-labels
+17. 🟡 Boats to Save People
+leetcode.com/problems/boats-to-save-people
+18. 🟡 Number of Subsequences That Satisfy the Given Sum Condition
+leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition
+19. 🔴 Trapping Rain Water
+leetcode.com/problems/trapping-rain-water
+20. 🔴 Minimum Window Subsequence
+leetcode.com/problems/minimum-window-subsequence
+
+===== DM 4 of 4 (338 chars) =====
+📚 Poori list (41 patterns × 20 sawaal):
+github.com/Automedon/ultimate-leetcode-patterns#3-two-pointers
+Credit: Automedon 🙏
+
+💡 Pehchaan: sorted array / pair ya triplet / palindrome / in-place dikhe → do pointer lagao.
+Rozana 1 sawaal. Atak jao toh reply karo, CodeBhai help karega 💪
+
+Follow @codebhai.dsa · agla pattern jaldi aa raha hai 🔥
