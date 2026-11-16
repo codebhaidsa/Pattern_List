@@ -1,4 +1,3 @@
-===== DM 1 of 4 (564 chars) =====
 👉👈 TWO POINTERS: 20 sawaal (Easy → Hard)
 Pattern 2/15 · @codebhai.dsa
 
@@ -18,8 +17,6 @@ leetcode.com/problems/squares-of-a-sorted-array
 leetcode.com/problems/remove-duplicates-from-sorted-array
 7. 🟢 Valid Palindrome II
 leetcode.com/problems/valid-palindrome-ii
-
-===== DM 2 of 4 (497 chars) =====
 8. 🟢 Backspace String Compare
 leetcode.com/problems/backspace-string-compare
 9. 🟡 Two Sum II - Input Array Is Sorted
@@ -34,8 +31,6 @@ leetcode.com/problems/rotate-array
 leetcode.com/problems/4sum
 14. 🟢 Sort Array By Parity II
 leetcode.com/problems/sort-array-by-parity-ii
-
-===== DM 3 of 4 (509 chars) =====
 15. 🟡 Container With Most Water
 leetcode.com/problems/container-with-most-water
 16. 🟡 Partition Labels
@@ -49,10 +44,7 @@ leetcode.com/problems/trapping-rain-water
 20. 🔴 Minimum Window Subsequence
 leetcode.com/problems/minimum-window-subsequence
 
-===== DM 4 of 4 (338 chars) =====
 📚 Poori list (41 patterns × 20 sawaal):
-github.com/Automedon/ultimate-leetcode-patterns#3-two-pointers
-Credit: Automedon 🙏
 
 💡 Pehchaan: sorted array / pair ya triplet / palindrome / in-place dikhe → do pointer lagao.
 Rozana 1 sawaal. Atak jao toh reply karo, CodeBhai help karega 💪
